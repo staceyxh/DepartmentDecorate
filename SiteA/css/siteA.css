@@ -1,1 +1,100 @@
-//css  file for Site A
+#mathematics
+{
+    background-image:  url("/SiteA/pics/math.jpg");
+    background-size: cover; 
+    font-family:fantasy;
+    color:antiquewhite
+}
+
+#mathematics table,#mathematics td
+{
+    border:3px solid white;
+}
+
+#mathematics a
+{
+    color: antiquewhite
+}
+
+
+#ComputerScience
+{
+    background-image:  url("/SiteA/pics/computer.jpg");
+    background-size: cover;
+    font-family:fantasy;
+    color:antiquewhite
+        
+}
+
+#ComputerScience table,#ComputerScience td
+{
+    border:3px solid white;
+}
+
+#ComputerScience a:visited
+{
+    color:cadetblue
+}
+
+#ComputerScience a:link 
+{
+    color: antiquewhite
+}
+
+
+#studioArt
+{
+    background-image:  url("/SiteA/pics/art%20pic.jpg");
+    background-size: 500px;
+    font-family:fantasy;
+    color:antiquewhite
+        
+}
+
+#studioArt table,#studioArt td
+{
+    border:3px solid white;
+}
+
+#studioArt a
+{
+    color: antiquewhite
+}
+
+#Economics
+{
+    background-image:  url("/SiteA/pics/economics.jpg");
+    background-size: 100px;
+    font-family:fantasy;
+    color:antiquewhite
+        
+}
+
+#Economics table,#Economics td
+{
+    border:3px solid white;
+}
+
+#Economics a
+{
+    color: antiquewhite
+}
+
+#Politics
+{
+    background-image:  url("/SiteA/pics/politics.jpg");
+    background-size: 500px;
+    font-family:fantasy;
+    color:antiquewhite
+        
+}
+
+#Politics table,#Politics td
+{
+    border:3px solid white;
+}
+
+#Politics a
+{
+    color: antiquewhite
+}
