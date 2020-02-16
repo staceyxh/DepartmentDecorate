@@ -1,1 +1,25 @@
-//css  file for Site B
+#studioArt table, #studioArt td
+{
+    border:3px solid black;
+}
+
+#studioArt {
+    
+    background-image: url("/SiteB/pics/flower.png"), repeating-linear-gradient(red,blue);
+    background-size: 1000px;
+    background-blend-mode: overlay;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    color: moccasin
+}
+
+#studioArt a:visited
+{
+    color: darksalmon
+}
+
+#studioArt a:link 
+{
+    color: cyan
+}
