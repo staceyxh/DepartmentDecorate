@@ -5,7 +5,7 @@
 
 #studioArt {
     
-    background-image: url("/SiteB/pics/flower.png"), repeating-linear-gradient(red,blue);
+    background-image: url("../pics/flower.png"), repeating-linear-gradient(pink,red);
     background-size: 1000px;
     background-blend-mode: overlay;
     
@@ -23,3 +23,89 @@
 {
     color: cyan
 }
+
+
+
+
+#Economics table, #Economics td
+{
+    border:3px solid black;
+}
+
+#Economics {
+    
+    background-image: url("../pics/stonks.png"), repeating-linear-gradient(green,orange);
+    background-size: 50px
+    background-blend-mode: overlay;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    color: moccasin
+}
+
+#Economics a:visited
+{
+    color: darksalmon
+}
+
+#Economics a:link 
+{
+    color: cyan
+        
+        
+        
+}
+
+#Politics table, #Politics td
+{
+    border:3px solid black;
+}
+
+#Politics {
+    
+    background-image: url("../pics/politics.png"), repeating-linear-gradient(red,blue);
+    background-blend-mode: hard-light;
+    background-size: 100px
+    font-family: sans-serif;
+    font-style: normal;
+    color: moccasin
+}
+
+#Politics a:visited
+{
+    color: darksalmon
+}
+
+#Politics a:link 
+{
+    color: cyan
+}
+
+
+
+#ComputerScience table, #ComputerScience td
+{
+    border:3px solid black;
+}
+
+#ComputerScience {
+    
+    background-image: repeating-linear-gradient(green,black), url("../pics/stonks.png");
+    background-size: 100px
+    background-blend-mode: overlay;
+    
+    font-family: sans-serif;
+    font-style: normal;
+    color: moccasin
+}
+
+#ComputerScience a:visited
+{
+    color: darksalmon
+}
+
+#ComputerScience a:link 
+{
+    color: cyan
+}
+
